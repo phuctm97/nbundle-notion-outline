@@ -1,0 +1,11 @@
+{
+  "ignorePaths": [
+    "package.json",
+    "cspell.json",
+    ".env",
+    "node_modules",
+    ".vscode",
+    "out"
+  ],
+  "words": ["commitlint", "nbundle", "sourcemaps", "topbar"]
+}

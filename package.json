@@ -1,0 +1,37 @@
+{
+  "name": "nbundle-app-vv26h",
+  "version": "0.0.2",
+  "productName": "Notion Outline",
+  "description": "Show floating sticky outline (table of contents) for Notion pages",
+  "private": true,
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": "^1.22.0"
+  },
+  "dependencies": {
+    "@nbundle/react": "^1.0.29",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-angular": "^17.0.3",
+    "@commitlint/prompt-cli": "^17.0.3",
+    "@nbundle/cli": "^1.0.64",
+    "cspell": "^6.5.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "^2.7.1"
+  },
+  "scripts": {
+    "develop": "nbundle develop",
+    "dev": "nbundle develop",
+    "build": "nbundle build",
+    "preview": "nbundle preview",
+    "start": "nbundle preview",
+    "ship": "nbundle ship",
+    "deploy": "nbundle ship",
+    "prepare": "husky install"
+  }
+}
