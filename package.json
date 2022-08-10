@@ -9,7 +9,7 @@
     "yarn": "^1.22.0"
   },
   "dependencies": {
-    "@nbundle/react": "^1.0.29",
+    "@nbundle/react": "^1.0.30",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0"
@@ -18,7 +18,7 @@
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-angular": "^17.0.3",
     "@commitlint/prompt-cli": "^17.0.3",
-    "@nbundle/cli": "^1.0.64",
+    "@nbundle/cli": "^1.0.65",
     "cspell": "^6.5.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
