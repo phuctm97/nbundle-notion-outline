@@ -18,7 +18,7 @@
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-angular": "^17.0.3",
     "@commitlint/prompt-cli": "^17.0.3",
-    "@nbundle/cli": "^1.0.65",
+    "@nbundle/cli": "^1.0.66",
     "cspell": "^6.5.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
