@@ -530,10 +530,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@nbundle/cli@^1.0.65":
-  version "1.0.65"
-  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.65.tgz#f751d5c7f7ac3710d29f2755f9d5198e3643382a"
-  integrity sha512-3/Xf7y/NWXuewTSLcTH0xl211rEHBPTn87b/R0Z4cMBCFo8FBFAmxuq+G3nny1oAn6cC2CgNjbU+ce3FSW4fng==
+"@nbundle/cli@^1.0.66":
+  version "1.0.66"
+  resolved "https://registry.yarnpkg.com/@nbundle/cli/-/cli-1.0.66.tgz#3015a8e77a77517450bf5c3a4f6293818a10754b"
+  integrity sha512-eKREkxLVyqjTzJ9ySCHJTrAz+LLUFHSjMWxBSCwz2Z+pdW61L6F7KJnW9nJBTJG0HFn7rhc5zykL5Gi+cU9bqQ==
   dependencies:
     css-loader "^6.7.1"
     sharp "^0.30.7"
